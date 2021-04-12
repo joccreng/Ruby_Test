@@ -106,3 +106,5 @@ puts practica.integer_menor_que(1.30)
 puts practica.long_string("Este string es mas largo que el otro, Deberia retornar este texto :D")
 puts practica.juntar_array(["dominada, repeticiones", 5])
 puts practica.long_hash({nombre: "Flexiones", repeticiones: 15})
+
+hola
