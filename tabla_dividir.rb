@@ -6,4 +6,5 @@ def tabla(div)
 		puts " #{div} entre #{numero} = #{n}}"
 	end
 end
-puts tabla
+
+tabla 1
