@@ -1,3 +1,4 @@
+
 def tabla(div)
 	print "Coloca un numero : "
 	a = gets.chomp.to_i
@@ -6,6 +7,5 @@ def tabla(div)
 		puts " #{div} entre #{a} = #{n}"
 	end
 end
-a = 0
+a = a
 tabla(a)
-
