@@ -1,10 +1,11 @@
 def tabla(div)
-	print "Coloca un numero: "
-	numero = gets.chomp.to_i
+	print "Coloca un numero : "
+	a = gets.chomp.to_i
 	 (1..10).each do |n|
-	 	div = numero * n
-		puts " #{div} entre #{numero} = #{n}}"
+	 	div = a * n
+		puts " #{div} entre #{a} = #{n}"
 	end
 end
+a = 0
+tabla(a)
 
-tabla 1
