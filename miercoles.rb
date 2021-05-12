@@ -11,7 +11,7 @@ def facebook(likes)
  	end
 end
 
-puts facebook(1000)
-puts facebook(10000)
-puts facebook(999999)
-puts facebook(1000000)
+facebook(1000)
+facebook(10000)
+facebook(999999)
+facebook(1000000)
